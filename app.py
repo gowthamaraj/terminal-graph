@@ -1,7 +1,6 @@
 """Program to print a graph based on the given sequence of input"""
 
 # test inputs
-# vengatesh@cybersecurityworks.com
 seq1 = [
     3, 1, 2, 3, 6, 2,
     3, 6, 2, 3, 6, 3, 2, 3,
